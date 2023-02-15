@@ -1,3 +1,5 @@
+# This uses an old version of opencv-python to support a new build patch.
+
 ## OpenCV: Open Source Computer Vision Library
 
 ### Resources
